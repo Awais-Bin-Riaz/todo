@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.input{
+    text-align: center;
+
+}
+.additem{
+    color: white;
+    background-color: blue;
+}
+.deleteall{
+    color: white;
+    background-color: red;
+}
+.btn1, .btn2{
+    width: 20px;
+    cursor: pointer !important;
+}
+
+li{
+    border-bottom: 1px rgba(0, 0, 0, 0.404) solid;
+}
